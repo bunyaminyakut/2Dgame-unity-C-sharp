@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - floor
+  - Enemy
+  - Bullet
+  - Gamer
+  - Spike
+  - Coin
+  - Fin
+  - Hell
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: walpaper
+    uniqueID: 922144511
+    locked: 0
+  - name: arka
+    uniqueID: 89473001
+    locked: 0
+  - name: orta
+    uniqueID: 2185616587
+    locked: 0
+  - name: "\xF6n"
+    uniqueID: 3917955355
+    locked: 0
+  - name: "en\xF6n"
+    uniqueID: 4087824351
+    locked: 0
